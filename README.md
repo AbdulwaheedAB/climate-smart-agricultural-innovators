@@ -1,0 +1,2 @@
+# climate-smart-agricultural-innovators
+This project aims to bring technologies and innovations for smart climate change resilience and mitigation approaches to agricultural actors and reliable weather information to farmers and stakeholders in the agricultural space. It also aims to connect members of communities in various agricultural commodities value chain for sustainable business and commodity exchange markets
